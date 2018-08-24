@@ -12,7 +12,7 @@ Console.WriteLine("二进制 111101 的十进制表示: "+Convert.ToInt32("11110
 Console.WriteLine("八进制 44 的十进制表示: "+Convert.ToInt32("44", 8));
 //十六进制转十进制
 Console.WriteLine("十六进制 CC的十进制表示: "+Convert.ToInt32("CC", 16));
- */
+ */ 
 
 private string StringToHexString(string s,Encoding encode)
 {
